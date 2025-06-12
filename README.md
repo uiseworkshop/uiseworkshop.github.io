@@ -1,4 +1,4 @@
-# Gaze Workshop Webpages (gazeworkshop.github.io)
+# UISE Workshop Webpages (uiseworkshop.github.io)
 
 ## Previewing your changes
 
