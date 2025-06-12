@@ -31,7 +31,3 @@ To duplicate a page from the previous year (let's say 2026), to create a page fo
 3. https://github.com/phhei/ArgsValidNovel
 4. https://github.com/llm4code/llm4code.github.io/
 5. https://github.com/gazeworkshop/gazeworkshop.github.io
-
-## Email/Github
-username: uiseworkshop@outlook.com
-pwd: Uise1workshop
