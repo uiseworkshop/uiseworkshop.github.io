@@ -1,0 +1,13 @@
+title: Gaze Estimation and Prediction in the Wild
+email: n.horanyi@pgr.bham.ac.uk
+description: Gaze Estimation and Prediction in the Wild Workshop Series
+  ---
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+
+# Google Analytics
+google_analytics: UA-99765598-4
+
